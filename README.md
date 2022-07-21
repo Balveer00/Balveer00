@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Balveer00
+- 👋 Hi, I’m @Balveer
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Balveer00/Balveer00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
